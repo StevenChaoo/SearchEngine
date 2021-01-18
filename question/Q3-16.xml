@@ -1,0 +1,67 @@
+﻿<TOPIC_SET>
+ <METADATA>
+   <DESCRIPTION>This file contains NTCIR-7 MOAT Simplified Chinese testing topics.</DESCRIPTION>
+   <VERSION>2008/08/09 11:43:42</VERSION>
+   <LANGUAGE TARGET="CS"/>
+
+ <CORPUS>tcdata_newspapers_LianheZaobao-1998-2001, tcdata_newspapers_XIN_CMN-1998-2001</CORPUS>
+ </METADATA>
+
+ <TOPIC ID="MOAT7-CS-N03" TITLE="“911”恐怖袭击后美国经济发生了什么变化？">
+   <DESC LANG="EN"><![CDATA[What happened to the American economy after the 911 terrorist attacks?]]></DESC>
+   <DESC LANG="CS"><![CDATA[请说说“911”恐怖袭击后美国经济发生了什么变化？。]]></DESC>
+ </TOPIC>
+ <TOPIC ID="MOAT7-CS-N04" TITLE="各国对洛克比空难的反应。">
+   <DESC LANG="EN"><![CDATA[I would like to know the responses of other countries to Lockerbie Air Disaster.]]></DESC>
+   <DESC LANG="CS"><![CDATA[请说说各国对洛克比空难的反应。]]></DESC>
+ </TOPIC>
+ <TOPIC ID="MOAT7-CS-N05" TITLE="关于科索沃战争中的暴行、军事干涉、独立申明以及其他任何与之有关的事情。">
+   <DESC LANG="EN"><![CDATA[Please tell me about the Cosovo civil war, theviolence that it has caused, any military interventions that have taken placebecause of it, their Declaration of Independence, and anything elsethat has happened because of the Cosovo civil war.]]></DESC>
+   <DESC LANG="CS"><![CDATA[请说说关于科索沃战争中的暴行、军事干涉、独立申明以及其他任何与之有关的事情。]]></DESC>
+ </TOPIC>
+ <TOPIC ID="MOAT7-CS-N06" TITLE="尼泊尔统治家族（王室）事变的背景和详情以及后继的来自各方的反应。">
+   <DESC LANG="EN"><![CDATA[I would like to know about the background and details of the incident with Nepal's ruling family (royalty) and the response thatcame afterwards.]]></DESC>
+   <DESC LANG="CS"><![CDATA[请说说尼泊尔统治家族（王室）事变的背景和详情以及后继的来自各方的反应。]]></DESC>
+ </TOPIC>	
+<TOPIC ID="MOAT7-CS-N07" TITLE="针对印尼华人的暴力事件。">
+   <DESC LANG="EN"><![CDATA[Please tell me about the incident of violence against Chinese Indonesian people.]]></DESC>
+   <DESC LANG="CS"><![CDATA[请说说针对印尼华人的暴力事件。]]></DESC>
+ </TOPIC>
+ <TOPIC ID="MOAT7-CS-N08" TITLE="美国政府起诉微软垄断行为，需知道该诉讼的内容、该案例的事实、和解过程以及最后的判决。">
+   <DESC LANG="EN"><![CDATA[Please tell me about the lawsuit that the American Government brought against Microsoft for monopolistic practices.  I want to know the content of the lawsuit, facts about the case, settlements, and  decisions that were made.]]></DESC>
+   <DESC LANG="CS"><![CDATA[请说说美国政府起诉微软垄断行为，需知道该诉讼的内容、该案例的事实、和解过程以及最后的判决。]]></DESC>
+ </TOPIC>
+ <TOPIC ID="MOAT7-CS-N09" TITLE="各国已经进行的核武器试验。">
+   <DESC LANG="EN"><![CDATA[Please tell me about nuclear weapons tests that have been carried out by various countries.]]></DESC>
+   <DESC LANG="CS"><![CDATA[请说说各国已经进行的核武器试验。]]></DESC>
+ </TOPIC>
+ <TOPIC ID="MOAT7-CS-N10" TITLE="叙利亚对中东和平进程的立场。">
+   <DESC LANG="EN"><![CDATA[What is the position of Syria with regard to the Middle East peace process?]]></DESC>
+   <DESC LANG="CS"><![CDATA[请说说叙利亚对中东和平进程的立场。]]></DESC>
+ </TOPIC>
+ <TOPIC ID="MOAT7-CS-N11" TITLE="美国在线（AOL）和网景（Netscape）的关系是什么？">
+   <DESC LANG="EN"><![CDATA[What is the relationship between AOL and Netscape?]]></DESC>
+   <DESC LANG="CS"><![CDATA[请说说美国在线（AOL）和网景（Netscape）的关系是什么？]]></DESC>
+ </TOPIC>
+ <TOPIC ID="MOAT7-CS-N12" TITLE="什么是厄尔尼诺？">
+   <DESC LANG="EN"><![CDATA[What is El Nino?]]></DESC>
+   <DESC LANG="CS"><![CDATA[请说说什么是厄尔尼诺？]]></DESC>
+ </TOPIC>
+ <TOPIC ID="MOAT7-CS-N13" TITLE="中俄之间发生的事情。">
+   <DESC LANG="EN"><![CDATA[Please tell me about what happened between China and Russia.]]></DESC>
+   <DESC LANG="CS"><![CDATA[请说说中俄之间发生的事情。]]></DESC>
+ </TOPIC>
+ <TOPIC ID="MOAT7-CS-N14" TITLE="什么是温室气体？">
+   <DESC LANG="EN"><![CDATA[What are greenhouse gasses?]]></DESC>
+   <DESC LANG="CS"><![CDATA[请说说什么是温室气体？]]></DESC>
+ </TOPIC>	
+ <TOPIC ID="MOAT7-CS-N15" TITLE="北约和波兰是什么关系？">
+   <DESC LANG="EN"><![CDATA[What is the relationship between the NATO and Poland?]]></DESC>
+   <DESC LANG="CS"><![CDATA[请说说北约和波兰是什么关系？]]></DESC>
+ </TOPIC>
+ <TOPIC ID="MOAT7-CS-N16" TITLE="泰国在亚洲经济危机中的角色及其对世界经济的影响，同时各国针对这次危机所采取的步骤。">
+   <DESC LANG="EN"><![CDATA[Please tell me about the roles that Thailand played in the Asian economic crisis and what impact that has had on the world economy, as well as the steps that various countries have taken in light of the crisis.]]></DESC>
+   <DESC LANG="CS"><![CDATA[请说说泰国在亚洲经济危机中的角色及其对世界经济的影响，同时各国针对这次危机所采取的步骤。]]></DESC>
+ </TOPIC>
+ 
+</TOPIC_SET>

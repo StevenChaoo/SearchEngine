@@ -1,0 +1,22 @@
+﻿<TOPIC_SET>
+ <METADATA>
+   <DESCRIPTION>This file contains NTCIR-7 MOAT Simplified Chinese training topics.</DESCRIPTION>
+   <VERSION>2008/08/09 11:43:42</VERSION>
+   <LANGUAGE TARGET="CS"/>
+
+ <CORPUS>tcdata_newspapers_LianheZaobao-1998-2001, tcdata_newspapers_XIN_CMN-1998-2001</CORPUS>
+ </METADATA>
+
+ <TOPIC ID="MOAT7-CS-N01" TITLE="再生医学">
+   <DESC LANG="EN"><![CDATA[Tell me about regenerative medicine.]]></DESC>
+   <DESC LANG="CS"><![CDATA[请说说再生医学。]]></DESC>
+ </TOPIC>
+	
+	
+ <TOPIC ID="MOAT7-CS-N02" TITLE="美国对于贫铀炸弹的姿态">
+   <DESC LANG="EN"><![CDATA[Tell me about the American stance on / attitude towards depleted uranium bullets.]]></DESC>
+   <DESC LANG="CS"><![CDATA[请说说美国对于贫铀炸弹的姿态]]></DESC>
+ </TOPIC>
+	
+
+</TOPIC_SET>
